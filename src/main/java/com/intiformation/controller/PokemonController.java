@@ -22,6 +22,7 @@ import com.intiformation.service.PokemonService;
 public class PokemonController {
 
 	// un commentaire que je rajoute
+	// un deuxieme rajouter par un autre contributeur
 	@Autowired
 	PokemonService pokemonService;
 	
