@@ -23,6 +23,7 @@ public class PokemonController {
 
 	// un commentaire que je rajoute
 	// un deuxieme rajouter par un autre contributeur
+	// je rajoute un troisieme commentaire
 	@Autowired
 	PokemonService pokemonService;
 	
